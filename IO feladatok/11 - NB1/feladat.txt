@@ -1,0 +1,28 @@
+Az nb1.txt állományban az adatok a következő módón vannak tárolva:
+
+A labdarúgó mezére írt szám (szám)
+A labdarúgó utóneve (szöveg); előfordul, hogy valaki felvett nevet
+használ, ilyenkor üres is lehet
+A labdarúgó vezetékneve (szöveg)
+A labdarúgó születési dátuma (dátum)
+Értéke igaz, ha magyar állampolgár (is) a labdarúgó (logikai) [-1 igaz, 0 hamis]
+Értéke igaz, ha külföldi állampolgár (is) a labdarúgó (logikai)  [-1 igaz, 0 hamis]
+A labdarúgó euró ezrekben kifejezett értéke (szám)
+A klub neve (szöveg)
+A poszt neve (szöveg), például kapus, bal oldali védő, bal szélső
+
+Írjunk programot, mely menü segítségével lehetővé teszi a következő adatok kírását:
+
+a) A kapusokon kívül mindenkit mezőnyjátékosnak tekintünk. Keresse ki a legidősebb mezőnyjátékos vezeték- és utónevét, valamint születési dátumát! (Feltételezheti, hogy csak egy ilyen játékos van.)
+
+b) Határozza meg hány magyar, külföldi és kettős állampolgárságú játékos van! 
+
+c) Határozza meg játékosok összértékét csapatonként és írja ki a képernyőre! A csapatok neve és a játékosainak összértéke jelenjen meg!
+
+d) Keresse ki, hogy mely csapatoknál mely posztokon van csupán egy szerződtetett játékos! Írja ki a csapat nevet és a posztot amire csak egy játékost szerződtettek!
+
+e) Keressük ki azon játékosokat, akiknek az értékük nem haladja meg a játékosok értékének átlag értékét.
+
+f) Írja ki azon játékosok nevét, születési dátumát és csapataik nevét, akik 18 és 21 év közt vannak és magyar állampolgárok. Ha nincs ilyen, akkor megfelelő üzenettel helyettesítse a kimenetet.
+
+g) A „hazai.txt” illetve a „legios.txt” állományokba keresse ki a magyar, illetve a külföldi állampolgárságú játékosokat csapatonként. A szöveges állományoknak tartalmazniuk kell a csapat nevét majd alatta felsorolva a játékosok teljes nevét, poszt nevet és értéküket.

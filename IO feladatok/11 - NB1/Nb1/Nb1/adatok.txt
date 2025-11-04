@@ -1,0 +1,318 @@
+﻿Vasas FC	27	Benedek	Murka	1997.09.10.	-1	0	250	jobb szélső
+Vasas FC	40	István	Ferenczi	1977.09.14.	-1	0	50	középcsatár
+Vasas FC	23	Máté	Vida	1996.03.08.	-1	0	700	védekező középpályás
+Vasas FC	4	Kire	Ristevski	1990.10.22.	0	-1	700	középső védő
+Vasas FC	20	Márk	Kleisz	1998.07.02.	-1	0	400	védekező középpályás
+Vasas FC	3	Manjrekar	James	1993.08.05.	0	-1	200	védekező középpályás
+Vasas FC	8	Martin	Ádám	1994.11.06.	-1	0	300	középcsatár
+Vasas FC	9	Botond	Király	1994.10.26.	-1	0	150	jobb oldali középpályás
+Vasas FC	7	Szilveszter	Hangya	1994.01.02.	-1	0	600	bal oldali védő
+Vasas FC	14	Bálint	Gaál	1991.07.14.	-1	0	250	középcsatár
+Vasas FC	13	Zsombor	Berecz	1995.12.13.	-1	0	800	belső középpályás
+Vasas FC	90	Dániel	Póser	1990.01.12.	-1	0	100	kapus
+Vasas FC	70	Tamás	Kulcsár	1982.10.13.	-1	0	150	hátravont csatár
+Vasas FC	1	Gergely	Nagy	1994.05.27.	-1	0	300	kapus
+Vasas FC	12	Nikolaos	Vergos	1996.01.13.	0	-1	250	középcsatár
+Vasas FC	17	Evgen	Pavlov	1991.03.12.	0	-1	250	középcsatár
+Vasas FC	98	Bálint	Vogyicska	1998.02.27.	-1	0	250	belső középpályás
+Vasas FC	6	Donát	Szivacski	1997.01.18.	-1	0	200	jobb oldali középpályás
+Vasas FC	15	Máté	Czingráber	1997.06.13.	-1	0	100	középső védő
+Vasas FC	10	Mohamed	Remili	1985.05.31.	-1	0	300	támadó középpályás
+Vasas FC	32	Vit	Benes	1988.08.12.	0	-1	400	középső védő
+Vasas FC	22	Jan	Simunek	1987.02.20.	0	-1	250	középső védő
+Vasas FC	19	Felix	Burmeister	1990.03.09.	0	-1	300	középső védő
+Vasas FC	28	Tamás	Vaskó	1984.02.20.	-1	0	250	középső védő
+Vasas FC	87	Lubos	Kamenar	1987.06.17.	0	-1	250	kapus
+Ferencvárosi TC	28	Joseph	Paintsil	1998.02.01.	0	-1	400	támadó középpályás
+Ferencvárosi TC	29	Tamás	Priskin	1986.09.27.	-1	0	500	középcsatár
+Ferencvárosi TC	97	Roland	Varga	1990.01.23.	-1	0	1000	jobb szélső
+Ferencvárosi TC	13	Dániel	Böde	1986.10.21.	-1	0	600	középcsatár
+Ferencvárosi TC	31	Ádám	Holczer	1988.03.28.	-1	0	150	kapus
+Ferencvárosi TC	30	Rui	Pedro	1988.07.02.	0	-1	750	támadó középpályás
+Ferencvárosi TC	90	Dénes	Dibusz	1990.11.16.	-1	0	750	kapus
+Ferencvárosi TC	91	Balázs	Lovrencsics	1991.08.30.	-1	0	200	középcsatár
+Ferencvárosi TC	11	István	Bognár	1991.05.06.	-1	0	300	támadó középpályás
+Ferencvárosi TC	3	Norbert	Kundrák	1999.05.18.	-1	0	100	középcsatár
+Ferencvárosi TC	14	Zsombor	Takács	1999.02.22.	-1	0	50	középső védő
+Ferencvárosi TC	23	Lukács	Bőle	1990.03.27.	-1	0	800	bal szélső
+Ferencvárosi TC	4	Stefan	Spirovski	1990.08.23.	0	-1	600	védekező középpályás
+Ferencvárosi TC	16	Leandro	1982.03.19.	-1	-1	150	középső védő
+Ferencvárosi TC	17	Kornél	Csernik	1998.07.02.	-1	0	100	támadó középpályás
+Ferencvárosi TC	7	Bence	Batik	1993.11.08.	-1	0	300	középső védő
+Ferencvárosi TC	5	Marcos	Pedroso	1993.10.04.	0	-1	900	bal oldali védő
+Ferencvárosi TC	51	András	Csonka	2000.05.01.	-1	0	75	védekező középpályás
+Ferencvárosi TC	19	Julian	Koch	1990.11.11.	0	-1	300	védekező középpályás
+Ferencvárosi TC	21	Endre	Botka	1994.04.25.	-1	0	450	jobb oldali védő
+Ferencvárosi TC	37	Janek	Sternberg	1992.10.19.	0	-1	250	bal oldali védő
+Ferencvárosi TC	40	Moutari	Amadou	1994.01.19.	0	-1	700	bal szélső
+Ferencvárosi TC	27	Fernando	Gorriarán	1994.11.27.	0	-1	1100	belső középpályás
+Ferencvárosi TC	15	Tamás	Hajnal	1981.03.15.	-1	0	100	támadó középpályás
+Ferencvárosi TC	25	Miha	Blazic	1993.05.08.	0	-1	450	középső védő
+Ferencvárosi TC	8	Gergő	Lovrencsics	1988.09.01.	-1	0	900	jobb szélső
+Ferencvárosi TC	20	Zoltán	Gera	1979.04.22.	-1	0	100	belső középpályás
+Ferencvárosi TC	42	Ádám	Varga	1999.02.12.	-1	0	75	kapus
+Ferencvárosi TC	22	Kenny	Otigba	1992.08.29.	-1	-1	1300	középső védő
+Puskás Akadémia FC	9	Ulysse	Diallo	1992.10.26.	0	-1	250	középcsatár
+Puskás Akadémia FC	12	Balázs	Balogh	1990.06.11.	-1	0	400	védekező középpályás
+Puskás Akadémia FC	33	Gábor	Molnár	1994.05.16.	-1	0	400	jobb szélső
+Puskás Akadémia FC	1	Balázs	Tóth	1997.09.04.	-1	0	50	kapus
+Puskás Akadémia FC	20	Vilmos	Vanczák	1983.06.20.	-1	0	200	középső védő
+Puskás Akadémia FC	28	Stipe	Bacelic-Grgic	1988.02.16.	0	-1	300	belső középpályás
+Puskás Akadémia FC	44	Branislav	Danilovic	1988.06.24.	0	-1	300	kapus
+Puskás Akadémia FC	14	Jonathan	Heris	1990.09.03.	0	-1	600	középső védő
+Puskás Akadémia FC	8	Dávid	Márkvárt	1994.09.20.	-1	0	300	belső középpályás
+Puskás Akadémia FC	19	Lajos	Hegedüs	1987.12.19.	-1	0	300	kapus
+Puskás Akadémia FC	24	Patrik	Poór	1993.11.25.	-1	0	350	középső védő
+Puskás Akadémia FC	71	Attila	Osváth	1995.12.10.	-1	0	300	jobb oldali védő
+Puskás Akadémia FC	15	Patrick	Mevoungou	1986.02.15.	0	-1	200	védekező középpályás
+Puskás Akadémia FC	23	Csaba	Spandler	1996.03.07.	-1	0	175	bal oldali védő
+Puskás Akadémia FC	10	András	Radó	1993.09.09.	-1	0	350	hátravont csatár
+Puskás Akadémia FC	68	János	Hegedűs	1996.10.04.	-1	0	200	középső védő
+Puskás Akadémia FC	27	Liridon	Latifi	1994.02.06.	0	-1	750	jobb oldali középpályás
+Puskás Akadémia FC	7	Márk	Szécsi	1994.05.22.	-1	0	150	középcsatár
+Puskás Akadémia FC	55	Péter	Szakály	1986.08.17.	-1	0	400	támadó középpályás
+Puskás Akadémia FC	80	Márk	Madarász	1995.11.24.	-1	0	200	támadó középpályás
+Puskás Akadémia FC	77	Antonio	Perosevic	1992.03.06.	0	-1	450	középcsatár
+Puskás Akadémia FC	13	Ádám	Csilus	1996.11.18.	-1	0	150	jobb oldali védő
+Puskás Akadémia FC	17	László	Zsidai	1986.07.16.	-1	0	150	védekező középpályás
+Puskás Akadémia FC	30	Josip	Knezevic	1988.10.03.	0	-1	600	támadó középpályás
+Puskás Akadémia FC	11	Dániel	Prosser	1994.06.15.	-1	0	300	jobb szélső
+Debreceni VSC	77	Aleksandar	Jovanovic	1984.10.26.	0	-1	300	jobb oldali középpályás
+Debreceni VSC	14	Krisztián	Kuti	1992.12.04.	-1	0	100	jobb oldali védő
+Debreceni VSC	6	Balázs	Bényei	1990.01.10.	-1	0	250	jobb oldali védő
+Debreceni VSC	25	Haris	Tabakovic	1994.06.20.	0	-1	250	középcsatár
+Debreceni VSC	42	Norbert	Könyves	1989.06.10.	-1	-1	250	jobb szélső
+Debreceni VSC	10	Tibor	Tisza	1984.11.10.	-1	0	200	középcsatár
+Debreceni VSC	33	Richárd	Csősz	1997.04.22.	-1	0	50	védekező középpályás
+Debreceni VSC	24	Danilo	Sekulic	1990.04.18.	0	-1	350	védekező középpályás
+Debreceni VSC	4	Ioan	Filip	1989.05.20.	0	-1	350	védekező középpályás
+Debreceni VSC	70	Kevin	Nagy	1995.09.11.	-1	0	100	jobb szélső
+Debreceni VSC	8	Dániel	Tőzsér	1985.05.12.	-1	0	700	belső középpályás
+Debreceni VSC	16	Péter	Bíró	1997.07.04.	-1	0	50	középcsatár
+Debreceni VSC	99	Bence	Sós	1994.05.10.	-1	0	300	bal oldali középpályás
+Debreceni VSC	13	Szabolcs	Barna	1996.04.27.	-1	0	75	bal oldali védő
+Debreceni VSC	11	János	Ferenczi	1991.04.03.	-1	0	200	bal oldali középpályás
+Debreceni VSC	23	Dániel	Bereczki	1995.06.02.	-1	0	75	hátravont csatár
+Debreceni VSC	21	Kevin	Varga	1996.03.30.	-1	0	250	bal szélső
+Debreceni VSC	2	Ákos	Kinyik	1993.05.12.	-1	0	250	középső védő
+Debreceni VSC	29	Erik	Kusnyír	2000.02.07.	-1	0	50	védekező középpályás
+Debreceni VSC	19	Justin	Mengolo	1993.06.24.	0	-1	350	jobb szélső
+Debreceni VSC	12	Ján	Novota	1983.11.29.	0	-1	300	kapus
+Debreceni VSC	1	Oleksandr	Nad	1985.09.02.	-1	-1	200	kapus
+Debreceni VSC	20	Tamás	Takács	1991.02.20.	-1	-1	150	középcsatár
+Debreceni VSC	3	Csaba	Szatmári	1994.06.14.	-1	0	350	középső védő
+Debreceni VSC	22	Péter	Kovács	2000.02.10.	-1	0	50	kapus
+Debreceni VSC	97	István	Szabados	1997.11.08.	-1	0	50	kapus
+Debreceni VSC	17	Norbert	Mészáros	1980.08.19.	-1	0	100	középső védő
+Debreceni VSC	27	Ádám	Bódi	1990.10.18.	-1	0	400	jobb oldali középpályás
+Budapest Honvéd FC	2	Dávid	Bobál	1995.08.31.	-1	0	450	középső védő
+Budapest Honvéd FC	16	Zsolt	Pölöskei	1991.02.19.	-1	0	250	belső középpályás
+Budapest Honvéd FC	86	Zsolt	Laczkó	1986.12.18.	-1	0	300	bal oldali védő
+Budapest Honvéd FC	20	Mihály	Csábi	1995.03.25.	-1	0	75	védekező középpályás
+Budapest Honvéd FC	18	András	Horváth	1988.02.23.	-1	0	150	kapus
+Budapest Honvéd FC	92	Kristóf	Herjeczki	1998.06.29.	-1	0	100	középcsatár
+Budapest Honvéd FC	66	Attila	Berla	1999.04.08.	-1	0	50	kapus
+Budapest Honvéd FC	9	Márton	Eppel	1991.10.26.	-1	0	650	középcsatár
+Budapest Honvéd FC	36	Botond	Baráth	1992.04.21.	-1	0	350	középső védő
+Budapest Honvéd FC	7	Davide	Lanzafame	1987.02.09.	0	-1	1200	középcsatár
+Budapest Honvéd FC	77	Gergő	Nagy	1993.01.07.	-1	0	350	belső középpályás
+Budapest Honvéd FC	8	Patrick	Ikenne-King	1991.10.29.	0	-1	400	jobb oldali védő
+Budapest Honvéd FC	98	Bálint	Tömösvári	1998.06.14.	-1	0	150	középcsatár
+Budapest Honvéd FC	99	Dávid	Gróf	1989.04.17.	-1	0	350	kapus
+Budapest Honvéd FC	5	Gergely	Bobál	1995.08.31.	-1	0	150	középcsatár
+Budapest Honvéd FC	24	Djordje	Kamber	1983.11.20.	-1	-1	300	védekező középpályás
+Budapest Honvéd FC	21	Ákos	Bíró	1998.04.25.	-1	0	50	bal szélső
+Budapest Honvéd FC	17	Danilo	1986.11.12.	0	-1	300	középcsatár
+Budapest Honvéd FC	25	Ivan	Lovric	1985.07.11.	-1	-1	250	középső védő
+Budapest Honvéd FC	11	Kadima	Kabangu	1993.06.15.	0	-1	125	középcsatár
+Budapest Honvéd FC	3	Bence	Gergényi	1998.03.16.	-1	0	50	bal oldali védő
+Budapest Honvéd FC	15	Stefan	Deák	1991.03.23.	-1	-1	125	középső védő
+Budapest Honvéd FC	57	Filip	Holender	1994.07.27.	-1	-1	300	bal szélső
+Budapest Honvéd FC	6	Dániel	Gazdag	1996.03.02.	-1	0	450	belső középpályás
+Budapest Honvéd FC	23	Bence	Banó-Szabó	1999.07.25.	-1	0	100	támadó középpályás
+Budapest Honvéd FC	89	Balázs	Villám	1989.06.02.	-1	0	175	jobb oldali védő
+Szombathelyi Haladás	31	Márió	Németh	1995.05.01.	-1	0	300	támadó középpályás
+Szombathelyi Haladás	12	Bence	Kiss	1999.07.01.	-1	0	150	belső középpályás
+Szombathelyi Haladás	21	Tamás	Kiss	2000.11.24.	-1	0	50	bal szélső
+Szombathelyi Haladás	3	Dávid	Tóth	1998.07.09.	-1	0	100	jobb oldali védő
+Szombathelyi Haladás	13	Kristóf	Polgár	1996.11.28.	-1	0	200	jobb oldali védő
+Szombathelyi Haladás	6	Stef	Wils	1982.08.02.	0	-1	225	középső védő
+Szombathelyi Haladás	16	Barnabás	Rácz	1996.04.26.	-1	0	250	támadó középpályás
+Szombathelyi Haladás	66	Dániel	Rózsa	1984.11.24.	-1	0	200	kapus
+Szombathelyi Haladás	11	David	Williams	1988.02.26.	0	-1	450	középcsatár
+Szombathelyi Haladás	9	Miroslav	Grumic	1984.06.29.	-1	-1	100	középcsatár
+Szombathelyi Haladás	92	Myke	1992.10.30.	0	-1	200	középcsatár
+Szombathelyi Haladás	35	Predrag	Bosnjak	1985.11.13.	-1	-1	300	bal oldali védő
+Szombathelyi Haladás	98	Máté	Tóth	1998.06.20.	-1	0	250	támadó középpályás
+Szombathelyi Haladás	79	Péter	Halmosi	1979.09.25.	-1	0	100	bal oldali középpályás
+Szombathelyi Haladás	7	Patrik	Pinte	1997.01.06.	0	-1	125	középcsatár
+Szombathelyi Haladás	33	Szilárd	Devecseri	1990.02.13.	-1	0	175	középső védő
+Szombathelyi Haladás	23	Szabolcs	Schimmer	1984.02.24.	-1	0	125	jobb oldali védő
+Szombathelyi Haladás	4	Gábor	Jánvári	1990.04.25.	-1	0	100	bal oldali védő
+Szombathelyi Haladás	14	Zoltán	Medgyes	1995.07.23.	-1	0	175	jobb szélső
+Szombathelyi Haladás	1	Gábor	Király	1976.04.01.	-1	0	100	kapus
+Szombathelyi Haladás	70	András	Jancsó	1996.04.22.	-1	0	200	védekező középpályás
+Szombathelyi Haladás	8	Funsho	Bamgboye	1999.01.09.	0	-1	75	bal szélső
+Szombathelyi Haladás	44	Márton	Gyurján	1995.05.01.	-1	0	75	kapus
+Szombathelyi Haladás	42	Gergely	Lévay	1993.08.15.	-1	0	50	kapus
+Szombathelyi Haladás	24	Benjámin	Tóth	1995.01.24.	-1	0	75	támadó középpályás
+Szombathelyi Haladás	10	Karol	Mészáros	1993.07.25.	0	-1	200	jobb szélső
+Szombathelyi Haladás	80	Balázs	Petró	1997.07.07.	-1	0	100	támadó középpályás
+Szombathelyi Haladás	29	Milán	Németh	1988.05.29.	-1	0	125	bal oldali védő
+Szombathelyi Haladás	27	Lóránt	Kovács	1993.06.06.	-1	-1	350	védekező középpályás
+Szombathelyi Haladás	26	Márk	Jagodics	1992.04.10.	-1	0	200	középső védő
+Paksi FC	7	Tamás	Báló	1984.01.12.	-1	0	100	bal oldali védő
+Paksi FC	22	Áron	Fejős	1997.04.17.	-1	0	50	támadó középpályás
+Paksi FC	94	Bence	Daru	1994.06.05.	-1	0	125	középcsatár
+Paksi FC	30	János	Szabó	1989.07.11.	-1	0	350	bal oldali védő
+Paksi FC	1	Péter	Molnár	1983.12.14.	0	-1	200	kapus
+Paksi FC	23	András	Vági	1988.12.25.	-1	0	200	jobb oldali védő
+Paksi FC	96	Bence	Lenzsér	1996.04.09.	-1	0	350	középső védő
+Paksi FC	5	Zsolt	Gévay	1987.11.19.	-1	0	225	középső védő
+Paksi FC	39	László	Bartha	1987.02.09.	-1	0	300	bal szélső
+Paksi FC	28	Márk	Nikházi	1989.02.02.	-1	0	200	támadó középpályás
+Paksi FC	10	Zsolt	Haraszti	1991.11.04.	-1	0	225	jobb szélső
+Paksi FC	26	Lajos	Bertus	1990.09.26.	-1	0	300	támadó középpályás
+Paksi FC	77	Dávid	Kulcsár	1988.02.25.	-1	0	250	jobb oldali védő
+Paksi FC	87	István	Verpecz	1987.02.04.	-1	0	150	kapus
+Paksi FC	8	Tamás	Kecskés	1986.01.15.	-1	0	150	belső középpályás
+Paksi FC	21	Kristóf	Papp	1993.05.14.	-1	0	250	védekező középpályás
+Paksi FC	29	Tamás	Koltai	1987.04.30.	-1	0	200	jobb oldali középpályás
+Paksi FC	20	Péter	Zachán	1997.12.12.	-1	0	150	középső védő
+Paksi FC	17	Dénes	Szakály	1988.03.15.	-1	0	200	támadó középpályás
+Paksi FC	38	Ádám	Hajdú	1993.01.16.	-1	0	200	védekező középpályás
+Paksi FC	46	Ádám	Simon	1990.03.30.	-1	0	275	védekező középpályás
+Paksi FC	31	Gergő	Rácz	1995.11.20.	-1	0	50	kapus
+Paksi FC	9	János	Hahn	1995.05.15.	-1	0	200	középcsatár
+Mezőkövesd Zsóry FC	10	Bence	Iszlai	1990.05.29.	-1	0	300	védekező középpályás
+Mezőkövesd Zsóry FC	99	Márk	Murai	1996.07.15.	-1	0	25	támadó középpályás
+Mezőkövesd Zsóry FC	14	Lazar	Veselinovic	1986.08.04.	0	-1	300	középcsatár
+Mezőkövesd Zsóry FC	2	Dániel	Farkas	1993.01.13.	-1	-1	225	jobb oldali védő
+Mezőkövesd Zsóry FC	90	Tomas	Tujvel	1983.09.19.	0	-1	175	kapus
+Mezőkövesd Zsóry FC	17	Róbert	Pillár	1991.05.27.	0	-1	200	középső védő
+Mezőkövesd Zsóry FC	24	Tamás	Cseri	1988.01.15.	-1	0	175	bal szélső
+Mezőkövesd Zsóry FC	9	Csanád	Novák	1994.09.24.	-1	0	200	középcsatár
+Mezőkövesd Zsóry FC	39	Dávid	Hudák	1993.03.21.	0	-1	275	középső védő
+Mezőkövesd Zsóry FC	15	Marek	Strestik	1987.02.01.	-1	-1	350	támadó középpályás
+Mezőkövesd Zsóry FC	3	Dominik	Fótyik	1990.06.16.	-1	0	125	bal oldali védő
+Mezőkövesd Zsóry FC	16	István	Csirmaz	1995.05.04.	-1	0	125	jobb oldali középpályás
+Mezőkövesd Zsóry FC	41	Attila	Szalai	1998.01.20.	-1	0	100	középső védő
+Mezőkövesd Zsóry FC	21	Jakub	Brasen	1989.05.02.	0	-1	250	támadó középpályás
+Mezőkövesd Zsóry FC	26	Dániel	Vadnai	1989.02.19.	-1	0	200	bal oldali védő
+Mezőkövesd Zsóry FC	13	Pál	Lázár	1988.03.11.	-1	0	150	jobb oldali védő
+Mezőkövesd Zsóry FC	23	Paul	Keita	1992.06.23.	0	-1	300	védekező középpályás
+Mezőkövesd Zsóry FC	1	Dávid	Dombó	1993.02.26.	-1	0	125	kapus
+Mezőkövesd Zsóry FC	6	Gergő	Gohér	1987.06.16.	-1	0	200	bal oldali védő
+Mezőkövesd Zsóry FC	7	Bence	Tóth	1989.07.22.	-1	0	200	támadó középpályás
+Mezőkövesd Zsóry FC	19	Márk	Koszta	1996.09.26.	-1	0	250	bal szélső
+Mezőkövesd Zsóry FC	80	Máté	Köböl	1992.04.14.	0	-1	75	védekező középpályás
+Mezőkövesd Zsóry FC	8	Roland	Baracskai	1992.04.11.	-1	0	125	középcsatár
+Mezőkövesd Zsóry FC	22	Martin	Krnac	1985.01.30.	0	-1	150	kapus
+Mezőkövesd Zsóry FC	38	Tomas	Majtan	1987.03.30.	0	-1	150	középcsatár
+Mezőkövesd Zsóry FC	4	Frano	Mlinar	1992.03.30.	0	-1	350	védekező középpályás
+Mezőkövesd Zsóry FC	88	Tamás	Szeles	1993.12.07.	-1	0	150	középső védő
+Diósgyőri VTK	1	Erik	Bukrán	1996.12.06.	-1	0	75	kapus
+Diósgyőri VTK	19	Tibor	Nagy	1991.08.14.	-1	0	150	jobb oldali védő
+Diósgyőri VTK	4	Márk	Tamás	1993.10.28.	-1	0	300	középső védő
+Diósgyőri VTK	9	Patrik	Bacsa	1992.06.03.	-1	0	150	középcsatár
+Diósgyőri VTK	87	Róbert	Tucsa	1998.03.17.	-1	0	50	középső védő
+Diósgyőri VTK	30	Nono	1993.03.30.	0	-1	350	belső középpályás
+Diósgyőri VTK	94	Gábor	Eperjesi	1994.01.12.	-1	0	200	jobb oldali védő
+Diósgyőri VTK	20	Attila	Busai	1989.01.21.	-1	0	250	belső középpályás
+Diósgyőri VTK	8	Bálint	Oláh	1994.12.02.	-1	0	150	védekező középpályás
+Diósgyőri VTK	15	Barnabás	Tóth	1994.07.28.	-1	0	150	védekező középpályás
+Diósgyőri VTK	17	Miklós	Kitl	1997.06.01.	-1	0	125	védekező középpályás
+Diósgyőri VTK	5	Zoltán	Lipták	1984.12.10.	-1	0	350	középső védő
+Diósgyőri VTK	10	Roland	Ugrai	1992.11.13.	-1	0	400	középcsatár
+Diósgyőri VTK	23	Dávid	Forgács	1995.09.29.	-1	0	100	bal oldali védő
+Diósgyőri VTK	21	Gergő	Kocsis	1994.03.07.	-1	0	200	védekező középpályás
+Diósgyőri VTK	6	Diego	Vela	1991.11.27.	0	-1	350	jobb oldali középpályás
+Diósgyőri VTK	27	Ákos	Szarka	1990.11.24.	0	-1	300	középcsatár
+Diósgyőri VTK	74	Patrik	Ternován	1997.06.10.	-1	0	75	bal oldali középpályás
+Diósgyőri VTK	99	Botond	Antal	1991.08.22.	-1	0	150	kapus
+Diósgyőri VTK	81	Patrik	Ivánka	1998.08.25.	-1	0	50	középső védő
+Diósgyőri VTK	22	Ivan	Rados	1984.02.21.	-1	-1	250	kapus
+Diósgyőri VTK	48	Dejan	Karan	1988.08.25.	0	-1	300	középső védő
+Diósgyőri VTK	14	Zsolt	Óvári	1997.03.29.	-1	0	250	bal szélső
+Diósgyőri VTK	7	Gábor	Makrai	1996.06.26.	-1	0	300	középcsatár
+Diósgyőri VTK	33	Nikolaos	Ioannidis	1994.04.26.	0	-1	450	középcsatár
+Újpest FC	14	Alassane	Diallo	1995.02.19.	0	-1	200	belső középpályás
+Újpest FC	17	Viktor	Angelov	1994.03.27.	0	-1	150	hátravont csatár
+Újpest FC	86	Soma	Novothny	1994.06.16.	-1	0	400	középcsatár
+Újpest FC	28	Obinna	Nwobodo	1996.11.29.	0	-1	150	belső középpályás
+Újpest FC	10	Donát	Zsótér	1996.01.06.	-1	0	300	jobb szélső
+Újpest FC	1	Filip	Pajovic	1993.07.30.	0	-1	300	kapus
+Újpest FC	22	Dávid	Mohl	1985.04.28.	-1	0	250	bal oldali védő
+Újpest FC	16	Anton	Jönsson Salétros	1996.04.12.	0	-1	250	védekező középpályás
+Újpest FC	19	Mijusko	Bojovic	1988.08.09.	0	-1	300	középső védő
+Újpest FC	7	Krisztián	Simon	1991.06.10.	-1	0	150	jobb szélső
+Újpest FC	5	Róbert	Litauszki	1990.03.15.	-1	0	400	középső védő
+Újpest FC	23	Dávid	Banai	1994.05.09.	-1	0	150	kapus
+Újpest FC	26	Dániel	Nagy	1991.03.15.	-1	0	300	támadó középpályás
+Újpest FC	27	Bence	Pávkovics	1997.03.27.	-1	0	200	védekező középpályás
+Újpest FC	32	Zoltán	Kovács	1984.10.29.	-1	0	125	kapus
+Újpest FC	49	Branko	Pauljevic	1989.06.12.	-1	-1	200	jobb oldali középpályás
+Újpest FC	6	József	Windecker	1992.12.02.	-1	0	400	védekező középpályás
+Újpest FC	2	Kristóf	Szűcs	1997.01.03.	-1	0	150	jobb oldali védő
+Újpest FC	4	Dávid	Kálnoki Kis	1991.08.06.	-1	0	350	középső védő
+Újpest FC	25	Remzifaik	Selmani	1997.05.05.	0	-1	150	bal szélső
+Újpest FC	29	Gergő	Németh	1999.03.03.	-1	0	50	védekező középpályás
+Újpest FC	35	Bence	Gundel-Takács	1998.04.06.	-1	0	50	kapus
+Újpest FC	8	Benjámin	Cseke	1994.07.22.	-1	0	250	belső középpályás
+Újpest FC	21	Benjámin	Balázs	1990.04.26.	-1	0	300	jobb oldali középpályás
+Újpest FC	9	Patrik	Tischler	1991.07.30.	-1	0	250	középcsatár
+Újpest FC	18	Bojan	Sankovic	1993.11.21.	0	-1	250	védekező középpályás
+Balmazújváros FC	18	Attila	Haris	1997.01.23.	-1	0	150	védekező középpályás
+Balmazújváros FC	71	Ádám	Orovecz	1997.10.23.	-1	0	50	jobb oldali középpályás
+Balmazújváros FC	23	Ádám	Kovács	1991.04.14.	-1	0	150	jobb szélső
+Balmazújváros FC	56	Miklós	Belényesi	1983.05.15.	-1	0	50	középcsatár
+Balmazújváros FC	26	Sándor	Vajda	1991.12.14.	-1	-1	200	bal oldali középpályás
+Balmazújváros FC	6	Krisztián	Póti	1988.05.28.	-1	0	100	középső védő
+Balmazújváros FC	1	Gergő	Szécsi	1989.02.07.	-1	0	75	kapus
+Balmazújváros FC	55	István	Bódis	1997.01.19.	-1	0	100	belső középpályás
+Balmazújváros FC	69	Roland	Vólent	1992.09.23.	-1	0	75	középcsatár
+Balmazújváros FC	10	Ervin	Zsiga	1991.07.11.	-1	-1	125	jobb szélső
+Balmazújváros FC	4	Adrián	Rus	1996.03.18.	-1	-1	150	középső védő
+Balmazújváros FC	30	Aladár	Virág	1983.02.19.	-1	0	50	bal oldali középpályás
+Balmazújváros FC	88	László	Horváth	1988.02.23.	-1	0	150	kapus
+Balmazújváros FC	13	Dávid	Sigér	1990.11.30.	-1	0	175	belső középpályás
+Balmazújváros FC	7	Yuri	Gabovda	1989.05.06.	0	-1	300	jobb oldali védő
+Balmazújváros FC	17	Máté	Schmid	1996.07.08.	-1	0	50	jobb szélső
+Balmazújváros FC	8	Bachana	Arabuli	1994.01.05.	0	-1	300	középcsatár
+Balmazújváros FC	29	Áron	Schmid	1998.09.29.	-1	0	50	bal oldali védő
+Balmazújváros FC	67	Irakli	Maisuradze	1988.08.22.	0	-1	300	védekező középpályás
+Balmazújváros FC	15	Bence	Jagodics	1994.03.31.	-1	0	100	középső védő
+Balmazújváros FC	41	Ferenc	Rácz	1991.03.28.	-1	0	75	jobb szélső
+Balmazújváros FC	2	Krisztián	Pogacsics	1985.10.17.	-1	0	175	kapus
+Balmazújváros FC	19	Nemanja	Andric	1987.06.13.	-1	-1	250	bal szélső
+Balmazújváros FC	11	Carlo	Erdei	1996.03.22.	-1	-1	50	támadó középpályás
+Balmazújváros FC	28	Tibor	Bokros	1988.08.28.	-1	0	100	jobb oldali védő
+Balmazújváros FC	33	Eke	Uzoma	1989.08.11.	0	-1	175	bal oldali védő
+Balmazújváros FC	5	László	Tamás	1988.01.18.	-1	0	150	középső védő
+Balmazújváros FC	9	Ádám	Fekete	1988.01.22.	-1	0	100	középcsatár
+Balmazújváros FC	21	Ante	Batarelo	1984.11.21.	0	-1	150	védekező középpályás
+Videoton FC	17	Máté	Pátkai	1988.03.06.	-1	0	750	védekező középpályás
+Videoton FC	74	Ádám	Kovácsik	1991.04.04.	-1	0	450	kapus
+Videoton FC	31	Dávid	Barczi	1989.02.01.	-1	0	200	bal oldali középpályás
+Videoton FC	25	Krisztián	Tamás	1995.04.18.	-1	0	150	bal oldali védő
+Videoton FC	5	Attila	Fiola	1990.02.17.	-1	0	700	jobb oldali védő
+Videoton FC	55	Bence	Tóth	1998.05.25.	-1	0	250	középső védő
+Videoton FC	8	Anel	Hadzic	1989.08.16.	0	-1	800	védekező középpályás
+Videoton FC	10	István	Kovács	1992.03.27.	-1	0	400	támadó középpályás
+Videoton FC	22	Stopira	1988.05.20.	0	-1	750	bal oldali védő
+Videoton FC	33	József	Varga	1988.06.06.	-1	0	500	védekező középpályás
+Videoton FC	49	Krisztián	Géresi	1994.06.14.	-1	0	350	bal szélső
+Videoton FC	23	Roland	Juhász	1983.07.01.	-1	0	500	középső védő
+Videoton FC	99	Asmir	Suljic	1991.09.11.	-1	-1	700	bal szélső
+Videoton FC	44	Marko	Scepovic	1991.05.23.	0	-1	1200	középcsatár
+Videoton FC	21	Ezekiel	Henty	1993.05.13.	0	-1	1100	középcsatár
+Videoton FC	7	Danko	Lazovic	1983.05.17.	0	-1	500	hátravont csatár
+Videoton FC	20	Attila	Mocsi	2000.05.29.	-1	0	100	középső védő
+Videoton FC	18	Bence	Szabó	1998.01.16.	-1	0	150	támadó középpályás
+Videoton FC	6	András	Fejes	1988.08.26.	-1	0	300	bal oldali védő
+Videoton FC	1	Tamás	Horváth	1987.06.18.	-1	0	150	kapus
+Videoton FC	11	Loïc	Nego	1991.01.15.	0	-1	900	jobb oldali védő
+Videoton FC	3	Vinícius	1990.02.21.	-1	-1	1000	középső védő
+Videoton FC	30	Roland	Szolnoki	1992.01.21.	-1	0	350	jobb oldali védő
+Videoton FC	77	Bendegúz	Bolla	1999.11.22.	-1	0	75	jobb oldali védő
+Videoton FC	51	András	Hársfalvi	1996.11.12.	-1	0	50	kapus

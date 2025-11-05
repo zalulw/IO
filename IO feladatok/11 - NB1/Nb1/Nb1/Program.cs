@@ -8,7 +8,13 @@ var players = new List<Player>();
 
 foreach (var line in fileData)
 {
-    var data = line.Split('\t');
+    var data = line.Split('\t').ToList();
+
+    if(data.Count == 8)
+    {
+        data.Insert(3, string.Empty);
+    }
+
     players.Add(new Player
     {
         ClubName = data[0],
@@ -16,8 +22,8 @@ foreach (var line in fileData)
         LastName = data[2],
         FamilyName = data[3],
         BirthDate = DateTime.Parse(data[4]),
-        IsHungarian = int.Parse(data[5]),
-        IsForeign = int.Parse(data[6]),
+        IsHungarian = data[5],
+        IsForeign = data[6],
         Pay = int.Parse(data[7]),
         Position = data[8]
     });
@@ -27,9 +33,9 @@ var oldestFieldPlayer = players.Where(p => p.Position != "kapus").OrderBy(p => p
 
 Console.WriteLine($"1. feladat: A mezőnyjátékosok közül a legidősebb játékos: {oldestFieldPlayer.LastName} {oldestFieldPlayer.FamilyName}, születési dátum: {oldestFieldPlayer.BirthDate:yyyy.MM.dd}");
 
-var hungarianCount = players.Count(p => p.IsHungarian == -1);
-var foreignCount = players.Count(p => p.IsForeign == -1);
-var dualCitizenCount = players.Count(p => p.IsHungarian == -1 && p.IsForeign == -1);
+var hungarianCount = players.Count(p => p.IsHungarian == "-1");
+var foreignCount = players.Count(p => p.IsForeign == "-1");
+var dualCitizenCount = players.Count(p => p.IsHungarian == "-1" && p.IsForeign == "-1");
 Console.WriteLine($"2. feladat: Magyar játékosok száma: {hungarianCount} fő, Külföldi játékosok száma: {foreignCount} fő, Kettős állampolgárságú játékosok száma: {dualCitizenCount} fő");
 
 
@@ -53,6 +59,7 @@ var uniquePositions = players.GroupBy(p => new {p.ClubName, p.Position})
 foreach (var pos in uniquePositions)
 {
     Console.WriteLine($"4. feladat: {pos.ClubName} - {pos.PositionCount} különböző poszton játszanak a játékosok");
+    break;
 }
 
 
@@ -61,9 +68,11 @@ var belowAveragePlayers = players.Where(p => p.Pay < averageValue);
 foreach (var player in belowAveragePlayers)
 {
     Console.WriteLine($"5. feladat: {player.LastName} {player.FamilyName}, {player.ClubName}, {player.Pay} Ft");
+
+    break;
 }
 
-var youngHungarianPlayers = players.Where(p => p.IsHungarian == -1 && p.BirthDate.Year >= 2000);
+var youngHungarianPlayers = players.Where(p => p.IsHungarian == "-1" && p.BirthDate.Year >= 2000);
 
 if(!youngHungarianPlayers.Any())
 {
@@ -74,11 +83,12 @@ else
     foreach (var player in youngHungarianPlayers)
     {
         Console.WriteLine($"6. feladat: {player.LastName} {player.FamilyName}, születési dátum: {player.BirthDate:yyyy.MM.dd}");
+        break;
     }
 }
 
-var hungarianPlayers = players.Where(p => p.IsHungarian == -1).GroupBy(p => p.ClubName);
-var foreignPlayers = players.Where(p => p.IsForeign == -1).GroupBy(p => p.ClubName);
+var hungarianPlayers = players.Where(p => p.IsHungarian == "-1").GroupBy(p => p.ClubName);
+var foreignPlayers = players.Where(p => p.IsForeign == "-1").GroupBy(p => p.ClubName);
 
 await File.WriteAllLinesAsync("hazai.txt", hungarianPlayers.SelectMany(g => new[] { g.Key }.Concat(g.Select(p => $"{p.LastName} {p.FamilyName} {p.Position} {p.Pay}K EUR"))));
 await File.WriteAllLinesAsync("legios.txt", foreignPlayers.SelectMany(g => new[] { g.Key }.Concat(g.Select(p => $"{p.LastName} {p.FamilyName} {p.Position} {p.Pay}K EUR"))));

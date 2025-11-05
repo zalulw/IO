@@ -10,9 +10,9 @@ public class Player
 
     public DateTime BirthDate { get; set; }
 
-    public int IsHungarian { get; set; }
+    public string IsHungarian { get; set; }
 
-    public int IsForeign { get; set; }
+    public string IsForeign { get; set; }
 
     public int Pay { get; set; }
 

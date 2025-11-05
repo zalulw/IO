@@ -21,7 +21,7 @@ Console.WriteLine($"3. feladat: EU tagállamainak száma: {sumOfCountriesIn2018}
 var sumOfJoinedIn2007 = countries.Where(c => c.JoinDate.Year == 2007).Count();
 Console.WriteLine($"4. feladat: 2007-ben {sumOfJoinedIn2007} ország csatlakozott."); 
 
-var dateOfHungaryJoin = countries.First(c => c.Name == "Magyarország").JoinDate;
+var dateOfHungaryJoin = countries.Where(c => c.Name.Contains("Magyar")).First().JoinDate;
 Console.WriteLine($"5. feladat: Magyarország csatlakozásának időpontja: {dateOfHungaryJoin:yyyy.MM.dd}");
 
 var whichMonthDidHungaryJoin = dateOfHungaryJoin.Month;

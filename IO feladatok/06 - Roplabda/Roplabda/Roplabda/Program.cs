@@ -2,7 +2,7 @@
 using System.Text;
 using static System.Reflection.Metadata.BlobBuilder;
 
-var fileData = await File.ReadAllLinesAsync("adatok.txt", Encoding.UTF8);
+var fileData = await File.ReadAllLinesAsync("adatok.txt", Encoding.UTF7);
 
 var players = new List<Player>();
 
@@ -75,13 +75,7 @@ using (var writer = new StreamWriter("nemzetisegek.txt", false, Encoding.UTF8))
 var sumOfHeights = 0;
 var numberOfPlayers = 0;
 
-foreach (var player in players) 
-{ 
-    sumOfHeights += player.Height;
-    numberOfPlayers++;
-}
-
-var averageHeight = sumOfHeights / numberOfPlayers;
+var averageHeight = players.Average(x => x.Height);
 
 var playersHigherThanAverage = players.Where(x => x.Height >= averageHeight).Select(x => x.ToString());
 

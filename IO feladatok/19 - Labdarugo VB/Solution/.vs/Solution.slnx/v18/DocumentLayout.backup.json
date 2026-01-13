@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{191C0701-AF51-4395-8DE9-5BE2F74379E0}|Solution\\Solution.csproj|c:\\users\\06zal\\onedrive\\asztali g\u00E9p\\io\\io feladatok\\19 - labdarugo vb\\solution\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191C0701-AF51-4395-8DE9-5BE2F74379E0}|Solution\\Solution.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191C0701-AF51-4395-8DE9-5BE2F74379E0}|Solution\\Solution.csproj|c:\\users\\06zal\\onedrive\\asztali g\u00E9p\\io\\io feladatok\\19 - labdarugo vb\\solution\\solution\\vb2018.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{191C0701-AF51-4395-8DE9-5BE2F74379E0}|Solution\\Solution.csproj|solutionrelative:solution\\vb2018.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191C0701-AF51-4395-8DE9-5BE2F74379E0}|Solution\\Solution.csproj|c:\\users\\06zal\\onedrive\\asztali g\u00E9p\\io\\io feladatok\\19 - labdarugo vb\\solution\\solution\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191C0701-AF51-4395-8DE9-5BE2F74379E0}|Solution\\Solution.csproj|solutionrelative:solution\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\Solution\\Game.cs",
+              "RelativeDocumentMoniker": "Solution\\Game.cs",
+              "ToolTip": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\Solution\\Game.cs",
+              "RelativeToolTip": "Solution\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T21:39:59.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vb2018.txt",
+              "DocumentMoniker": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\Solution\\vb2018.txt",
+              "RelativeDocumentMoniker": "Solution\\vb2018.txt",
+              "ToolTip": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\Solution\\vb2018.txt",
+              "RelativeToolTip": "Solution\\vb2018.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-13T21:46:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "C:\\Users\\06zal\\OneDrive\\Asztali g\u00E9p\\IO\\IO feladatok\\19 - Labdarugo VB\\Solution\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T21:30:39.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\bin\Debug\net10.0\vb2018.txt
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\bin\Debug\net10.0\Solution.exe
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\bin\Debug\net10.0\Solution.deps.json
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\bin\Debug\net10.0\Solution.runtimeconfig.json
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\bin\Debug\net10.0\Solution.dll
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\bin\Debug\net10.0\Solution.pdb
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.AssemblyInfoInputs.cache
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.AssemblyInfo.cs
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.sourcelink.json
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.dll
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\refint\Solution.dll
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.pdb
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\Solution.genruntimeconfig.cache
+C:\Users\06zal\OneDrive\Asztali gép\IO\IO feladatok\19 - Labdarugo VB\Solution\Solution\obj\Debug\net10.0\ref\Solution.dll
